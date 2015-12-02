@@ -1,0 +1,6 @@
+E:\Programs\VS\_AOKT\Laba4\AOKT_Laba4CSharp\AOKT_Laba4CSharp\bin\Debug\AOKT_Laba4CSharp.exe.config
+E:\Programs\VS\_AOKT\Laba4\AOKT_Laba4CSharp\AOKT_Laba4CSharp\bin\Debug\AOKT_Laba4CSharp.exe
+E:\Programs\VS\_AOKT\Laba4\AOKT_Laba4CSharp\AOKT_Laba4CSharp\bin\Debug\AOKT_Laba4CSharp.pdb
+E:\Programs\VS\_AOKT\Laba4\AOKT_Laba4CSharp\AOKT_Laba4CSharp\obj\Debug\AOKT_Laba4CSharp.csprojResolveAssemblyReference.cache
+E:\Programs\VS\_AOKT\Laba4\AOKT_Laba4CSharp\AOKT_Laba4CSharp\obj\Debug\AOKT_Laba4CSharp.exe
+E:\Programs\VS\_AOKT\Laba4\AOKT_Laba4CSharp\AOKT_Laba4CSharp\obj\Debug\AOKT_Laba4CSharp.pdb
